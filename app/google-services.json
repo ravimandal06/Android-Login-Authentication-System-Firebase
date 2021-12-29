@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137737120570",
+    "project_id": "loginframe-fcdd6",
+    "storage_bucket": "loginframe-fcdd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137737120570:android:663ace883def0334873e03",
+        "android_client_info": {
+          "package_name": "com.example.android.loginframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137737120570-16pu7mjb8j1pijal92t1n2dprnd15koh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNEAlDUVASphknDKN4-PXur4CV57XkTSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137737120570-16pu7mjb8j1pijal92t1n2dprnd15koh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
